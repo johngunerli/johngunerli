@@ -4,7 +4,7 @@
   uses: anmol098/waka-readme-stats@V3
   with:
     # GitHub access token with Repo scope
-    GH_TOKEN: secrets.GH_TOKEN
+    GH_TOKEN: ${{ secrets.GH_TOKEN }}
     # default is ${{ github.token }}
     # Your Wakatime API Key
     SHOW_OS: # optional, default is True
