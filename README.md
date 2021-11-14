@@ -1,12 +1,13 @@
  
 <div align="center">
-
-# 👋🏻 Hello! Merhaba! שלום!  Bonjour! # 
- 
  
 <a href="https://youtu.be/WPQSVUjeHfw"> 
  <img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp" alt="this code does not work." width="20" height="20"/> the code you see here could vanish any minute, and they might not work at all. be advised.  <img src="https://thumbs.gfycat.com/DelayedVacantDassie.webp" alt="oh fuck" width="20" height="20"/></a>
 <br>
+
+# 👋🏻 Hello! Merhaba! שלום!  Bonjour! # 
+ 
+ 
 My name is Hakan Can Gunerli. Well, my government name is that, I go by John here. I'm passionate about the Human side of Computer Science, particularly working towards how humans interact with computers and computer-based systems like Robots and the internet.
 
 <br> 
