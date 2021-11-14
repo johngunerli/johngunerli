@@ -48,64 +48,20 @@ Software:
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 283 Contributions in the Year 2021
- > 
-> 📦 727.5 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
-🌆 Daytime    67 commits     ████████░░░░░░░░░░░░░░░░░   32.21% 
-🌃 Evening    94 commits     ███████████░░░░░░░░░░░░░░   45.19% 
-🌙 Night      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-Jupyter Notebook         11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.19% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/hakancangunerli/hakancangunerli/master/charts/bar_graph.png) 
 
 
  Last Updated on 14/11/2021
