@@ -53,29 +53,29 @@ My name is Hakan Can Gunerli. Well, my government name is that, I go by John her
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-226-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 283 Contributions in the Year 2021
+> 🏆 295 Contributions in the Year 2021
  > 
-> 📦 727.5 kB Used in GitHub's Storage 
+> 📦 727.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 40 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-🌆 Daytime    69 commits     ████████░░░░░░░░░░░░░░░░░   32.86% 
-🌃 Evening    94 commits     ███████████░░░░░░░░░░░░░░   44.76% 
-🌙 Night      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14%
+🌞 Morning    14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.36% 
+🌆 Daytime    74 commits     ████████░░░░░░░░░░░░░░░░░   33.64% 
+🌃 Evening    95 commits     ██████████░░░░░░░░░░░░░░░   43.18% 
+🌙 Night      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82%
 
 ```
 
@@ -84,18 +84,25 @@ My name is Hakan Can Gunerli. Well, my government name is that, I go by John her
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      34 mins             █████████████░░░░░░░░░░░░   53.57% 
+YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84% 
+Python                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.6% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+uga-code                 34 mins             █████████████░░░░░░░░░░░░   53.57% 
+Unknown Project          12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84% 
+scraper                  10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
+ciliaweb_platform        6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.63%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/11/2021
+ Last Updated on 16/11/2021
 <!--END_SECTION:waka-->
 
 
