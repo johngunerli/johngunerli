@@ -53,7 +53,7 @@ My name is Hakan Can Gunerli. Well, my government name is that, I go by John her
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-226-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-229-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -61,7 +61,7 @@ My name is Hakan Can Gunerli. Well, my government name is that, I go by John her
 
 > 🏆 295 Contributions in the Year 2021
  > 
-> 📦 727.6 kB Used in GitHub's Storage 
+> 📦 727.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -102,7 +102,7 @@ Mac                      1 hr 3 mins         ███████████�
 ```
 
 
- Last Updated on 16/11/2021
+ Last Updated on 17/11/2021
 <!--END_SECTION:waka-->
 
 
