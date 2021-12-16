@@ -59,23 +59,23 @@ My name is Hakan Can Gunerli. Well, my government name is that, I go by John her
 
 **🐱 My GitHub Data** 
 
-> 🏆 111 Contributions in the Year 2021
+> 🏆 108 Contributions in the Year 2021
  > 
-> 📦 773.3 kB Used in GitHub's Storage 
+> 📦 773.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 41 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-🌆 Daytime    5 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-🌃 Evening    18 commits     ███████████████░░░░░░░░░░   62.07% 
-🌙 Night      5 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24%
+🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+🌆 Daytime    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+🌃 Evening    17 commits     ███████████████░░░░░░░░░░   62.96% 
+🌙 Night      5 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.52%
 
 ```
 
@@ -104,7 +104,7 @@ Mac                      55 mins             █████░░░░░░�
 ```
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
 
 
