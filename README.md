@@ -1,9 +1,6 @@
- 
-
- 
 Hello,
 
-My name is John Gunerli. I am a 3rd-year Computer Science student at Georgia Insitute of Technology, focusing on Intelligence and People aspects of CS. I'm passionate about the Human side of Computer Science, particularly working towards how humans interact with computers and computer-based systems.
+My name is John Gunerli. I am a 3rd-year Computer Science student at Georgia Institute of Technology, focusing on Intelligence and People aspects of CS. I'm passionate about the Human side of Computer Science, particularly working towards how humans interact with computers and computer-based systems.
 
 
 Given my antidisciplinary approach, my areas of focus generally coincide with what project I am working on. To name a few, however, I work generally in the fields of:
@@ -11,6 +8,7 @@ Given my antidisciplinary approach, my areas of focus generally coincide with wh
 - Human-Centered Computing (Human-Computer Interaction/Human-Robot Interaction) 
 - Robotics (Multi-Robot systems, Human-robot interfaces)
 - Augmented Reality
+
 
 
 I'm pretty active here, so please feel free to DM or shoot me an email at hakancangunerli at protonmail dot com. If it is a Georgia Tech-related subject and/or you need a faster way to reach at me, you can email me at hakancangunerli [at] gatech [dot] edu as well.
