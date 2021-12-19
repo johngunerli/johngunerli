@@ -8,9 +8,8 @@ My name is John Gunerli. I am a 3rd-year Computer Science student at Georgia Ins
 
 Given my antidisciplinary approach, my areas of focus generally coincide with what project I am working on. To name a few, however, I work generally in the fields of:
 
-- Human-Computer Interaction ( particularly Human-Robot Interaction) 
-- Human-centered computing
-- Robotics 
+- Human-Centered Computing (Human-Computer Interaction/Human-Robot Interaction) 
+- Robotics (Multi-Robot systems, Human-robot interfaces)
 - Augmented Reality
 
 
