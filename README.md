@@ -21,11 +21,11 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 114 Contributions in the Year 2021
+> 🏆 117 Contributions in the Year 2021
  > 
 > 📦 428.2 kB Used in GitHub's Storage 
  > 
@@ -33,15 +33,15 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
  > 
 > 📜 39 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-🌆 Daytime    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-🌃 Evening    25 commits     █████████████████░░░░░░░░   71.43% 
-🌙 Night      5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+🌆 Daytime    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+🌃 Evening    26 commits     █████████████████░░░░░░░░   70.27% 
+🌙 Night      6 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.22%
 
 ```
 
@@ -50,19 +50,21 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 ```text
 💬 Programming Languages: 
-TeX                      12 mins             ████████████████████████░   95.84% 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
+TeX                      12 mins             ███████████████████████░░   93.92% 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.08%
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             █████████████████████████   100.0%
+Unknown Project          13 mins             ████████████████████████░   98.0% 
+damn.                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.0%
+Windows                  13 mins             ████████████████████████░   98.0% 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 ```
 
 
- Last Updated on 23/12/2021
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
 
