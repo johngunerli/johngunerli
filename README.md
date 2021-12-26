@@ -25,7 +25,7 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 **🐱 My GitHub Data** 
 
-> 🏆 117 Contributions in the Year 2021
+> 🏆 119 Contributions in the Year 2021
  > 
 > 📦 428.2 kB Used in GitHub's Storage 
  > 
@@ -33,15 +33,15 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
  > 
 > 📜 39 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
-🌆 Daytime    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-🌃 Evening    26 commits     █████████████████░░░░░░░░   70.27% 
-🌙 Night      6 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.22%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+🌆 Daytime    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+🌃 Evening    26 commits     █████████████████░░░░░░░░   68.42% 
+🌙 Night      7 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.42%
 
 ```
 
@@ -65,7 +65,7 @@ Mac                      1 hr 17 mins        ███████████�
 ```
 
 
- Last Updated on 25/12/2021
+ Last Updated on 26/12/2021
 <!--END_SECTION:waka-->
 
 
