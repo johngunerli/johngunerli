@@ -1,3 +1,5 @@
+![](https://gist.githubusercontent.com/hakancangunerli/80137ecc5d849c99c01262a70f0efce0/raw/c08047c6881a89ff5eff068b4e9a64bc49438c7f/ye.png)
+<br> 
 Hello,
 
 My name is John Gunerli. I am a 3rd-year Computer Science student at Georgia Institute of Technology, focusing on Intelligence and People aspects of CS. I'm passionate about the Human side of Computer Science, particularly working towards how humans interact with computers and computer-based systems.
