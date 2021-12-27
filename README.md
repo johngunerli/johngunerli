@@ -5,7 +5,7 @@
 <br>
 Hello,
 
-My name is John Gunerli. I am a 3rd-year Computer Science student at Georgia Institute of Technology, focusing on Intelligence and People aspects of CS. I'm passionate about the Human side of Computer Science, particularly working towards how humans interact with computers and computer-based systems.
+My name is Hakan John Gunerli. I am a 3rd-year Computer Science student at Georgia Institute of Technology, focusing on Intelligence and People aspects of CS. I'm passionate about the Human side of Computer Science, particularly working towards how humans interact with computers and computer-based systems.
 
 
 Given my antidisciplinary approach, my areas of focus generally coincide with what project I am working on. To name a few, however, I work generally in the fields of:
