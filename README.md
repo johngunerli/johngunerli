@@ -24,19 +24,19 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 116 Contributions in the Year 2021
+> 🏆 115 Contributions in the Year 2021
  > 
-> 📦 428.2 kB Used in GitHub's Storage 
+> 📦 426.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -72,7 +72,7 @@ Windows                  27 mins             ██████░░░░░�
 ```
 
 
- Last Updated on 27/12/2021
+ Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
 
 
