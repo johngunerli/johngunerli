@@ -24,13 +24,13 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 115 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 426.5 kB Used in GitHub's Storage 
  > 
@@ -55,24 +55,19 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 9 mins         ████████████████░░░░░░░░░   63.72% 
-Java                     31 mins             ███████░░░░░░░░░░░░░░░░░░   29.16% 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+Java                     31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-damn.                    1 hr 17 mins        █████████████████░░░░░░░░   70.84% 
-Unknown Project          31 mins             ███████░░░░░░░░░░░░░░░░░░   29.16%
+Unknown Project          31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 21 mins        ██████████████████░░░░░░░   74.5% 
-Windows                  27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.5%
+Windows                  27 mins             █████████████████████░░░░   87.45% 
+Mac                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55%
 
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
 
