@@ -26,27 +26,27 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2022
  > 
-> 📦 426.5 kB Used in GitHub's Storage 
+> 📦 398.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 29 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
-🌆 Daytime    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-🌃 Evening    29 commits     ██████████████████░░░░░░░   72.5% 
-🌙 Night      6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+🌆 Daytime    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+🌃 Evening    22 commits     █████████████████░░░░░░░░   70.97% 
+🌙 Night      5 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.13%
 
 ```
 
@@ -55,19 +55,18 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 ```text
 💬 Programming Languages: 
-Java                     31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████░░░░   87.45% 
-Mac                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.55%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 02/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 
