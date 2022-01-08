@@ -1,4 +1,4 @@
-For more serious projects, go to @gunerli
+For more ✨serious✨ projects, go to [@gunerli](https://github.com/gunerli)
 
 <div> 
 <center> <img src="https://gist.githubusercontent.com/hakancangunerli/80137ecc5d849c99c01262a70f0efce0/raw/c08047c6881a89ff5eff068b4e9a64bc49438c7f/ye.png"/>
