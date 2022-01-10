@@ -28,29 +28,29 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 8 Contributions in the Year 2022
  > 
-> 📦 398.0 kB Used in GitHub's Storage 
+> 📦 398.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-🌆 Daytime    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-🌃 Evening    22 commits     █████████████████░░░░░░░░   70.97% 
-🌙 Night      5 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.13%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
+🌆 Daytime    8 commits      █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+🌃 Evening    22 commits     ███████████████░░░░░░░░░░   61.11% 
+🌙 Night      5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
 
 ```
 
@@ -70,7 +70,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/01/2022
+ Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
 
 
