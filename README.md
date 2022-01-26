@@ -28,7 +28,7 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20Thousand%20lines%20of%20code-blue)
 
@@ -59,20 +59,20 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 ```text
 💬 Programming Languages: 
-Java                     26 mins             █████████████████████████   100.0%
+Java                     28 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-PE1                      15 mins             ██████████████░░░░░░░░░░░   55.9% 
-PE01                     11 mins             ███████████░░░░░░░░░░░░░░   44.1%
+PE1                      15 mins             █████████████░░░░░░░░░░░░   53.09% 
+PE01                     13 mins             ███████████░░░░░░░░░░░░░░   46.91%
 
 💻 Operating System: 
-Mac                      15 mins             ██████████████░░░░░░░░░░░   55.9% 
-Windows                  11 mins             ███████████░░░░░░░░░░░░░░   44.1%
+Mac                      15 mins             █████████████░░░░░░░░░░░░   53.09% 
+Windows                  13 mins             ███████████░░░░░░░░░░░░░░   46.91%
 
 ```
 
 
- Last Updated on 24/01/2022 18:43:09 UTC
+ Last Updated on 26/01/2022 18:44:28 UTC
 <!--END_SECTION:waka-->
 
 
