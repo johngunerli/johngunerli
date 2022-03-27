@@ -1,5 +1,4 @@
-For more ✨serious✨ projects, go to [@hakancangunerli](https://github.com/hakancangunerli)
-
+### For more ✨serious✨ projects, go to [@hakancangunerli](https://github.com/hakancangunerli)
 </div>
 <br>
 <br>
@@ -17,6 +16,10 @@ Given my antidisciplinary approach, my areas of focus generally coincide with wh
 
 
 I'm pretty active here, so please feel free to DM or shoot me an email at hakancangunerli at protonmail dot com. If it is a Georgia Tech-related subject and/or you need a faster way to reach at me, you can email me at hakancangunerli [at] gatech [dot] edu as well.
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=63616e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
  
