@@ -19,7 +19,7 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=63616e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=63616e&hide=tex,html,shell,assembly,javascript,typescript&langs_count=6&exclude_repo=2015-csharp,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
  
