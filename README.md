@@ -1,16 +1,13 @@
 ### For more ✨serious✨ projects, go to [@hakancangunerli](https://github.com/hakancangunerli)
-</div>
+
 <br>
 <br>
+
 
 ![final_624d833a502f9f0059310223_737549](https://user-images.githubusercontent.com/33205097/161971799-9ce51eed-574a-4cab-ae73-ff67b8fa940f.gif)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=63616e&hide=tex,html,shell,assembly,javascript,typescript&langs_count=6&exclude_repo=2015-csharp,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
- </div>
- 
- </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=63616e&layout=compact&hide=tex,html,shell,assembly,javascript,typescript&langs_count=6&exclude_repo=2015-csharp)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
