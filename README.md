@@ -11,19 +11,19 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 230 Contributions in the Year 2022
+> 🏆 228 Contributions in the Year 2022
  > 
-> 📦 306.1 kB Used in GitHub's Storage 
+> 📦 298.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 30 Private Repositories  
  > 
@@ -42,20 +42,18 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 10 mins        █████████████████████████   100.0%
+Java                     39 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          39 mins             ██████████████░░░░░░░░░░░   55.85% 
-HW9                      31 mins             ███████████░░░░░░░░░░░░░░   44.15%
+Unknown Project          39 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  39 mins             ██████████████░░░░░░░░░░░   55.85% 
-Mac                      31 mins             ███████████░░░░░░░░░░░░░░   44.15%
+Windows                  39 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/04/2022 18:48:19 UTC
+ Last Updated on 01/05/2022 18:47:42 UTC
 <!--END_SECTION:waka-->
 
 
