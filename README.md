@@ -9,9 +9,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192%20Thousand%20lines%20of%20code-blue)
 
@@ -42,27 +42,18 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 58 mins       ████████████░░░░░░░░░░░░░   51.27% 
-Java                     2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   23.19% 
-Python                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GA_CF_Data_Warehouse_Dev 7 hrs 21 mins       ███████████████░░░░░░░░░░   60.03% 
-javafx                   2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72% 
-generate-random-turk     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.37% 
-hanyupinyin-helper       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-cs1331-soundboard        26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 9 mins        ████████████████░░░░░░░░░   65.66% 
-Windows                  2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   34.34%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/08/2022 18:47:05 UTC
+ Last Updated on 14/08/2022 18:47:01 UTC
 <!--END_SECTION:waka-->
 
 
