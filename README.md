@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-212%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 283 Contributions in the Year 2022
  > 
-> 📦 344.2 kB Used in GitHub's Storage 
+> 📦 344.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,7 +62,7 @@ Windows                  2 hrs 4 mins        ███████████�
 ```
 
 
- Last Updated on 09/09/2022 18:56:02 UTC
+ Last Updated on 10/09/2022 18:53:57 UTC
 <!--END_SECTION:waka-->
 
 
