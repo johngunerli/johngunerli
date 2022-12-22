@@ -4,15 +4,15 @@
 <br>
 Legend:
 
-🏁 -> Project is complete
+🏁 (checkered_flag) -> Project is complete
 
-👨‍💻 -> Project is being worked on
+👨‍💻 (man_technologist)   -> Project is being worked on
 
-🏚️-> Project is derelict/abandoned
+🏚️(derelict_house)-> Project is derelict/abandoned
 
-✍️-> Project needs documentation/readme
+✍️(writing_hand)-> Project needs documentation/readme
 
-👶 -> Did not even start it yet
+👶(baby)-> Did not even start it yet
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=tex,html,shell,assembly,C&langs_count=6&exclude_repo=2015-csharp)](https://github.com/anuraghazra/github-readme-stats)
 
