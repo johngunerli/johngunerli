@@ -2,7 +2,15 @@
 
 <br>
 <br>
+Legend:
 
+🏁 -> Project is complete
+
+👨‍💻 -> Project is being worked on
+
+🏚️-> Project is derelict/abandoned
+
+✍️-> Project needs documentation/readme
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=tex,html,shell,assembly,C&langs_count=6&exclude_repo=2015-csharp)](https://github.com/anuraghazra/github-readme-stats)
