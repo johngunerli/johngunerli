@@ -18,7 +18,7 @@ Legend:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
@@ -71,7 +71,7 @@ Windows                  3 hrs 43 mins       █████████░░�
 ```
 
 
- Last Updated on 30/12/2022 18:40:44 UTC
+ Last Updated on 31/12/2022 18:40:17 UTC
 <!--END_SECTION:waka-->
 
 
