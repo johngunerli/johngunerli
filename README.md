@@ -51,18 +51,18 @@ Legend:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/01/2023 18:43:32 UTC
+ Last Updated on 24/01/2023 18:42:38 UTC
 <!--END_SECTION:waka-->
 
 
