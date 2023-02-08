@@ -1,8 +1,8 @@
 ### For more ✨serious✨ projects, go to [@hakancangunerli](https://github.com/hakancangunerli)
 
-<br>
-<br>
-Legend:
+
+### Legend:
+
 
 🏁 (checkered_flag) -> Project is complete
 
