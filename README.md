@@ -14,7 +14,7 @@
 
 👶(baby)-> Did not even start it yet
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=tex,html,shell,assembly,C&langs_count=6&exclude_repo=2015-csharp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=tex,html,shell,CSS&langs_count=10&exclude_repo=2015-csharp)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
