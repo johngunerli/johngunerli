@@ -14,8 +14,7 @@
 
 👶(baby)-> Did not even start it yet
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby&langs_count=10&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2018%20mins-blue)
