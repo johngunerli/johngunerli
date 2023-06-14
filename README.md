@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,10 +38,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-🌃 Evening                265 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌙 Night                  106 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌞 Morning                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+🌃 Evening                265 commits         ██████████░░░░░░░░░░░░░░░   41.47 % 
+🌙 Night                  106 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 ```
 
 
@@ -63,7 +63,7 @@ Windows                  10 mins             ███████████�
 ```
 
 
- Last Updated on 13/06/2023 18:37:03 UTC
+ Last Updated on 14/06/2023 18:36:21 UTC
 <!--END_SECTION:waka-->
 
 
