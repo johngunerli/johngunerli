@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,7 +64,7 @@ Windows                  49 mins             ███████████�
 ```
 
 
- Last Updated on 17/06/2023 18:36:07 UTC
+ Last Updated on 18/06/2023 18:36:21 UTC
 <!--END_SECTION:waka-->
 
 
