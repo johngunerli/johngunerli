@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,22 +49,20 @@
 
 ```text
 💬 Programming Languages: 
-SCSS                     28 mins             ██████████████░░░░░░░░░░░   57.02 % 
-Docker                   20 mins             ██████████░░░░░░░░░░░░░░░   41.12 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+SCSS                     28 mins             █████████████████░░░░░░░░   68.04 % 
+Docker                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
 🐱‍💻 Projects: 
-WebApps_SelfServicePortal49 mins             █████████████████████████   98.47 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+WebApps_SelfServicePortal38 mins             ███████████████████████░░   91.46 % 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/06/2023 18:36:52 UTC
+ Last Updated on 20/06/2023 18:37:10 UTC
 <!--END_SECTION:waka-->
 
 
