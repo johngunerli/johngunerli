@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
@@ -25,7 +25,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 307.6 kB Used in GitHub's Storage 
+> 📦 488.0 kB Used in GitHub's Storage 
  > 
 > 🏆 255 Contributions in the Year 2023
  > 
@@ -51,14 +51,15 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   5 hrs 30 mins       ██████████████████████░░░   89.77 % 
-Objective-C              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Assembly                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python                   7 hrs 25 mins       █████████████████░░░░░░░░   66.41 % 
+Assembly                 2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Objective-C              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Ezhil                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+GDScript                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Windows                  6 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 59 mins       █████████████░░░░░░░░░░░░   53.66 % 
+Windows                  5 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.34 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +75,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2023 18:37:27 UTC
+ Last Updated on 24/08/2023 18:37:17 UTC
 <!--END_SECTION:waka-->
 
 
