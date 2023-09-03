@@ -17,9 +17,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -51,15 +51,15 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs               ██████████████████████░░░   86.00 % 
-Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Ezhil                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-GDScript                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-TSQL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Python                   3 hrs 46 mins       █████████████████████░░░░   85.31 % 
+Text                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Ezhil                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+GDScript                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TSQL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Windows                  3 hrs 44 mins       ████████████████████░░░░░   80.34 % 
-Mac                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Windows                  3 hrs 31 mins       ████████████████████░░░░░   79.37 % 
+Mac                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +75,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2023 18:36:41 UTC
+ Last Updated on 03/09/2023 18:36:45 UTC
 <!--END_SECTION:waka-->
 
 
