@@ -17,31 +17,31 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.8 MB Used in GitHub's Storage 
+> 📦 510.0 kB Used in GitHub's Storage 
  > 
-> 🏆 282 Contributions in the Year 2023
+> 🏆 284 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 64 Public Repositories 
  > 
 > 🔑 44 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                194 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-🌃 Evening                287 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌙 Night                  109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+🌞 Morning                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                194 commits         ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌃 Evening                290 commits         ██████████░░░░░░░░░░░░░░░   41.73 % 
+🌙 Night                  109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 ```
 
 
@@ -51,15 +51,15 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   11 hrs 45 mins      █████████████████░░░░░░░░   67.13 % 
-GDScript3                5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Python                   8 hrs 51 mins       ██████████████░░░░░░░░░░░   56.88 % 
+GDScript3                4 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
+Assembly                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+MySQL                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Windows                  14 hrs 27 mins      █████████████████████░░░░   82.59 % 
-Mac                      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Windows                  10 hrs 31 mins      █████████████████░░░░░░░░   67.47 % 
+Mac                      5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.53 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +75,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2023 18:38:09 UTC
+ Last Updated on 04/10/2023 18:39:50 UTC
 <!--END_SECTION:waka-->
 
 
