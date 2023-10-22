@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -26,6 +26,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 510.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 286 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -49,15 +51,15 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   13 hrs 39 mins      ███████████████████░░░░░░   77.90 % 
-Prolog                   1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Assembly                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Ezhil                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   13 hrs 3 mins       ███████████████████░░░░░░   77.12 % 
+Prolog                   1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Assembly                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Ezhil                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Windows                  13 hrs 7 mins       ███████████████████░░░░░░   74.89 % 
-Mac                      4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+Windows                  12 hrs 31 mins      ██████████████████░░░░░░░   74.00 % 
+Mac                      4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +75,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2023 18:36:16 UTC
+ Last Updated on 22/10/2023 18:36:54 UTC
 <!--END_SECTION:waka-->
 
 
