@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,15 +51,15 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 35 mins       █████████████████████░░░░   84.28 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python                   4 hrs 35 mins       █████████████████████░░░░   82.85 % 
+Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      3 hrs 3 mins        ██████████████░░░░░░░░░░░   56.05 % 
-Windows                  2 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.95 % 
+Mac                      3 hrs 3 mins        ██████████████░░░░░░░░░░░   55.10 % 
+Windows                  2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.90 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +75,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2023 18:37:12 UTC
+ Last Updated on 13/11/2023 18:37:56 UTC
 <!--END_SECTION:waka-->
 
 
