@@ -1,19 +1,5 @@
 ### For more ✨serious✨ projects, go to [@hakancangunerli](https://github.com/hakancangunerli)
 
-
-### Legend:
-
-
-🏁 (checkered_flag) -> Project is complete
-
-👨‍💻 (man_technologist)   -> Project is being worked on
-
-🏚️(derelict_house)-> Project is derelict/abandoned
-
-✍️(writing_hand)-> Project needs documentation/readme
-
-👶(baby)-> Did not even start it yet
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
