@@ -3,13 +3,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=jupyter%20notebook,tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-479639%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 5 Contributions in the Year 2024
  > 
 > 📦 768.6 kB Used in Github's Storage 
  > 
@@ -36,14 +36,13 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 20 mins       █████████████████████░░░░   85.58% 
-CSV                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.58% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Python                   4 hrs 37 mins       █████████████████████░░░░   86.02% 
+CSV                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 💻 Operating System: 
-Mac                      4 hrs 49 mins       ███████████████████████░░   95.32% 
-Windows                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.68%
+Mac                      5 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
@@ -60,7 +59,7 @@ TeX                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2024
+ Last Updated on 31/01/2024
 <!--END_SECTION:waka-->
 
 
