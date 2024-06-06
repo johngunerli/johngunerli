@@ -5,19 +5,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480958%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480848%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 35 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
-> 📦 782.6 kB Used in Github's Storage 
+> 📦 949.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 83 Public Repositories 
  > 
-> 🔑 48 Private Repositories  
+> 🔑 49 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -36,19 +36,21 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   23 mins             ████████████████████████░   99.32% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+Python                   1 hr 26 mins        █████████████████████████   99.74% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.0%
+WSL                      55 mins             ████████████████░░░░░░░░░   64.2% 
+Mac                      31 mins             █████████░░░░░░░░░░░░░░░░   35.8%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   40 repos            ███████████░░░░░░░░░░░░░░   47.06% 
-Jupyter Notebook         31 repos            █████████░░░░░░░░░░░░░░░░   36.47% 
+Python                   39 repos            ███████████░░░░░░░░░░░░░░   45.88% 
+Jupyter Notebook         32 repos            █████████░░░░░░░░░░░░░░░░   37.65% 
 TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
 TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
 JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
@@ -57,7 +59,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2024
+ Last Updated on 06/06/2024
 <!--END_SECTION:waka-->
 
 
