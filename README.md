@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480848%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480843%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 36 Contributions in the Year 2024
  > 
-> 📦 949.4 kB Used in Github's Storage 
+> 📦 949.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -36,12 +36,13 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   21 mins             ████████████████████████░   96.59% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
+Python                   21 mins             ███████████████████░░░░░░   78.39% 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.26% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35%
 
 💻 Operating System: 
-Windows                  14 mins             ████████████████░░░░░░░░░   67.09% 
-WSL                      7 mins              ████████░░░░░░░░░░░░░░░░░   32.91%
+Windows                  20 mins             ██████████████████░░░░░░░   73.3% 
+WSL                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   26.7%
 
 ```
 
@@ -58,7 +59,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2024
+ Last Updated on 13/06/2024
 <!--END_SECTION:waka-->
 
 
