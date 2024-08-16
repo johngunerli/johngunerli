@@ -9,7 +9,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 38 Contributions in the Year 2024
  > 
 > 📦 949.5 kB Used in Github's Storage 
  > 
@@ -36,13 +36,10 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   55 mins             ████████████████████████░   96.11% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      55 mins             ████████████████████████░   96.27% 
-Windows                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.73%
+No Activity Tracked This Week
 
 ```
 
@@ -59,7 +56,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2024
+ Last Updated on 16/08/2024
 <!--END_SECTION:waka-->
 
 
