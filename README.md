@@ -36,10 +36,10 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -56,7 +56,7 @@ TeX                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2025
+ Last Updated on 05/01/2025
 <!--END_SECTION:waka-->
 
 
