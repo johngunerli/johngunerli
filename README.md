@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=jupyter%20notebook,tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481197%20lines%20of%20code-blue)
 
@@ -36,11 +36,10 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   17 mins             ████████████████████████░   96.08% 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
+Python                   2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      17 mins             █████████████████████████   100.0%
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -57,7 +56,7 @@ Julia                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2025
+ Last Updated on 28/04/2025
 <!--END_SECTION:waka-->
 
 
