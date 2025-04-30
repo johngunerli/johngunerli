@@ -3,13 +3,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=jupyter%20notebook,tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481197%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 20 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
@@ -19,13 +19,13 @@
  > 
 > 🔑 58 Private Repositories  
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-🌆 Daytime    26 commits     █████████░░░░░░░░░░░░░░░░   39.39% 
-🌃 Evening    26 commits     █████████░░░░░░░░░░░░░░░░   39.39% 
-🌙 Night      7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.61%
+🌞 Morning    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+🌆 Daytime    25 commits     █████████░░░░░░░░░░░░░░░░   39.06% 
+🌃 Evening    26 commits     ██████████░░░░░░░░░░░░░░░   40.62% 
+🌙 Night      7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.94%
 
 ```
 
@@ -56,7 +56,7 @@ Julia                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2025
+ Last Updated on 30/04/2025
 <!--END_SECTION:waka-->
 
 
