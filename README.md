@@ -36,10 +36,10 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -56,7 +56,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2025
+ Last Updated on 21/10/2025
 <!--END_SECTION:waka-->
 
 
