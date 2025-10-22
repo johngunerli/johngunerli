@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=jupyter%20notebook,tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480739%20lines%20of%20code-blue)
 
@@ -56,7 +56,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2025
+ Last Updated on 22/10/2025
 <!--END_SECTION:waka-->
 
 
