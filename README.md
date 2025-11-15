@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=jupyter%20notebook,tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480739%20lines%20of%20code-blue)
 
@@ -36,14 +36,15 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       █████████████████░░░░░░░░   67.54% 
-JSON                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41% 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
+Python                   3 hrs 16 mins       █████████████████░░░░░░░░   71.36% 
+JSON                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.3% 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
 
 💻 Operating System: 
-WSL                      3 hrs 20 mins       █████████████████████████   100.0%
+WSL                      3 hrs 20 mins       ██████████████████░░░░░░░   72.71% 
+Mac                      1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   27.29%
 
 ```
 
@@ -60,7 +61,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025
+ Last Updated on 15/11/2025
 <!--END_SECTION:waka-->
 
 
