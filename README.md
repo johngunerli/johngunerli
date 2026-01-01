@@ -9,7 +9,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 43 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
@@ -56,7 +56,7 @@ R                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025
+ Last Updated on 01/01/2026
 <!--END_SECTION:waka-->
 
 
