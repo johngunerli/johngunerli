@@ -36,10 +36,10 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JSON                     8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -56,7 +56,7 @@ R                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2026
+ Last Updated on 18/02/2026
 <!--END_SECTION:waka-->
 
 
