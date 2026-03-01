@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480729%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481545%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 19 Contributions in the Year 2026
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
@@ -17,15 +17,15 @@
  > 
 > 📜 84 Public Repositories 
  > 
-> 🔑 61 Private Repositories  
+> 🔑 62 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌆 Daytime    7 commits      █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-🌃 Evening    11 commits     █████████░░░░░░░░░░░░░░░░   36.67% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+🌞 Morning    11 commits     ████████░░░░░░░░░░░░░░░░░   35.48% 
+🌆 Daytime    7 commits      █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+🌃 Evening    11 commits     ████████░░░░░░░░░░░░░░░░░   35.48% 
+🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 
 ```
 
@@ -36,29 +36,31 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   13 mins             ████████████████████████░   98.67% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Python                   40 mins             ███████████████████░░░░░░   78.33% 
+CSV                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+reStructuredText         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.0%
+Mac                      51 mins             █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ███████████░░░░░░░░░░░░░░   44.83% 
-Jupyter Notebook         34 repos            █████████░░░░░░░░░░░░░░░░   39.08% 
-JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-R                        2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+Python                   39 repos            ███████████░░░░░░░░░░░░░░   44.32% 
+Jupyter Notebook         34 repos            █████████░░░░░░░░░░░░░░░░   38.64% 
+JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
+TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
 ```
 
 
 
- Last Updated on 28/02/2026
+ Last Updated on 01/03/2026
 <!--END_SECTION:waka-->
 
 
