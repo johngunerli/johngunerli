@@ -9,13 +9,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 21 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 84 Public Repositories 
+> 📜 85 Public Repositories 
  > 
 > 🔑 62 Private Repositories  
  > 
@@ -36,31 +36,31 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   26 mins             ████████████░░░░░░░░░░░░░   49.04% 
-TeX                      16 mins             ███████░░░░░░░░░░░░░░░░░░   30.83% 
-CSV                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-reStructuredText         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81%
+Rust                     1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.17% 
+Markdown                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26% 
+Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+TeX                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.0%
+Mac                      3 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ███████████░░░░░░░░░░░░░░   44.32% 
-Jupyter Notebook         34 repos            █████████░░░░░░░░░░░░░░░░   38.64% 
-JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+Python                   39 repos            ███████████░░░░░░░░░░░░░░   43.82% 
+Jupyter Notebook         34 repos            █████████░░░░░░░░░░░░░░░░   38.2% 
+JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
+TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
 
 ```
 
 
 
- Last Updated on 05/03/2026
+ Last Updated on 07/03/2026
 <!--END_SECTION:waka-->
 
 
