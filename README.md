@@ -19,27 +19,27 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480656%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481014%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 23 Contributions in the Year 2026
+> 🏆 24 Contributions in the Year 2026
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 86 Public Repositories 
+> 📜 89 Public Repositories 
  > 
 > 🔑 62 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    12 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
-🌆 Daytime    7 commits      █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-🌃 Evening    11 commits     ████████░░░░░░░░░░░░░░░░░   34.38% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+🌞 Morning    15 commits     █████░░░░░░░░░░░░░░░░░░░░   20.55% 
+🌆 Daytime    23 commits     ████████░░░░░░░░░░░░░░░░░   31.51% 
+🌃 Evening    29 commits     ██████████░░░░░░░░░░░░░░░   39.73% 
+🌙 Night      6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
 
 ```
 
@@ -50,33 +50,33 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   41.09% 
-Markdown                 1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.97% 
-Python                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
-TeX                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.97% 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85%
+Rust                     1 hr 39 mins        ███████████░░░░░░░░░░░░░░   44.17% 
+Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   27.92% 
+Python                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
 
 💻 Operating System: 
-Mac                      3 hrs 1 min         ██████████████████░░░░░░░   75.32% 
-Windows                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-WSL                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.44%
+Mac                      2 hrs 45 mins       ██████████████████░░░░░░░   73.47% 
+Windows                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+WSL                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.3%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ███████████░░░░░░░░░░░░░░   43.82% 
-Jupyter Notebook         34 repos            █████████░░░░░░░░░░░░░░░░   38.2% 
-JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+Python                   40 repos            ███████████░░░░░░░░░░░░░░   44.44% 
+Jupyter Notebook         33 repos            █████████░░░░░░░░░░░░░░░░   36.67% 
+JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 ```
 
 
 
- Last Updated on 08/03/2026
+ Last Updated on 09/03/2026
 <!--END_SECTION:waka-->
 
 
