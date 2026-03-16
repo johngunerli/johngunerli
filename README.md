@@ -18,17 +18,17 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487348%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-486072%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 32 Contributions in the Year 2026
+> 🏆 33 Contributions in the Year 2026
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 92 Public Repositories 
+> 📜 93 Public Repositories 
  > 
 > 🔑 62 Private Repositories  
  > 
@@ -49,15 +49,15 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.61% 
-HTML                     2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21% 
-Rust                     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.69% 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
+Python                   3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.71% 
+HTML                     2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   26.31% 
+Rust                     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
 
 💻 Operating System: 
-Mac                      7 hrs 38 mins       █████████████████████░░░░   85.31% 
-WSL                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.69%
+Mac                      8 hrs 23 mins       █████████████████████░░░░   86.46% 
+WSL                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54%
 
 ```
 
@@ -74,7 +74,7 @@ TeX                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2026
+ Last Updated on 16/03/2026
 <!--END_SECTION:waka-->
 
 
