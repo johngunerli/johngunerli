@@ -18,7 +18,7 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485755%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485591%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -49,14 +49,14 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.18% 
-Bash                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17% 
-TypeScript               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
-Rust                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.99%
+TypeScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   31.13% 
+Other                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76% 
+HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.58%
 
 💻 Operating System: 
-Mac                      4 hrs 34 mins       █████████████████████████   100.0%
+Mac                      2 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
@@ -73,7 +73,7 @@ R                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2026
+ Last Updated on 21/03/2026
 <!--END_SECTION:waka-->
 
 
