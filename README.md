@@ -16,21 +16,21 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=jupyter%20notebook,tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485591%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485755%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 64 Contributions in the Year 2026
+> 🏆 66 Contributions in the Year 2026
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 94 Public Repositories 
+> 📜 95 Public Repositories 
  > 
-> 🔑 63 Private Repositories  
+> 🔑 64 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -49,31 +49,32 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   31.13% 
-Other                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76% 
-HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
-Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
-TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.58%
+TypeScript               1 hr 4 mins         ████████████████░░░░░░░░░   66.36% 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   23.19% 
+TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.0%
+Mac                      1 hr 37 mins        █████████████████████████   99.84% 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   37 repos            ██████████░░░░░░░░░░░░░░░   41.57% 
-Jupyter Notebook         34 repos            █████████░░░░░░░░░░░░░░░░   38.2% 
-JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-R                        2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+Python                   37 repos            ██████████░░░░░░░░░░░░░░░   40.66% 
+Jupyter Notebook         35 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
+JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
+TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3%
 
 ```
 
 
 
- Last Updated on 21/03/2026
+ Last Updated on 25/03/2026
 <!--END_SECTION:waka-->
 
 
