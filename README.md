@@ -22,15 +22,15 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 **🐱 My Github Data** 
 
-> 🏆 66 Contributions in the Year 2026
+> 🏆 68 Contributions in the Year 2026
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 95 Public Repositories 
+> 📜 96 Public Repositories 
  > 
-> 🔑 64 Private Repositories  
+> 🔑 65 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -49,32 +49,32 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         ████████████████░░░░░░░░░   66.36% 
-Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   23.19% 
-TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+Python                   3 hrs 51 mins       ████████████░░░░░░░░░░░░░   51.2% 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+Git Config               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27%
 
 💻 Operating System: 
-Mac                      1 hr 37 mins        █████████████████████████   99.84% 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Mac                      7 hrs 31 mins       █████████████████████████   99.96% 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   37 repos            ██████████░░░░░░░░░░░░░░░   40.66% 
-Jupyter Notebook         35 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
-JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
-TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3%
+Python                   38 repos            ██████████░░░░░░░░░░░░░░░   40.86% 
+Jupyter Notebook         35 repos            █████████░░░░░░░░░░░░░░░░   37.63% 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 
 
 
- Last Updated on 25/03/2026
+ Last Updated on 27/03/2026
 <!--END_SECTION:waka-->
 
 
