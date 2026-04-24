@@ -49,10 +49,10 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -69,7 +69,7 @@ C++                      3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2026
+ Last Updated on 24/04/2026
 <!--END_SECTION:waka-->
 
 
