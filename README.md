@@ -22,13 +22,13 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 **🐱 My Github Data** 
 
-> 🏆 68 Contributions in the Year 2026
+> 🏆 67 Contributions in the Year 2026
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 96 Public Repositories 
+> 📜 95 Public Repositories 
  > 
 > 🔑 65 Private Repositories  
  > 
@@ -59,17 +59,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   38 repos            ██████████░░░░░░░░░░░░░░░   40.86% 
-Jupyter Notebook         35 repos            █████████░░░░░░░░░░░░░░░░   37.63% 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+Python                   38 repos            ██████████░░░░░░░░░░░░░░░   41.3% 
+Jupyter Notebook         35 repos            █████████░░░░░░░░░░░░░░░░   38.04% 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26%
 
 ```
 
 
 
- Last Updated on 18/07/2026
+ Last Updated on 19/07/2026
 <!--END_SECTION:waka-->
 
 
