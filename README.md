@@ -22,13 +22,13 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 
 **🐱 My Github Data** 
 
-> 🏆 67 Contributions in the Year 2026
+> 🏆 68 Contributions in the Year 2026
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 95 Public Repositories 
+> 📜 96 Public Repositories 
  > 
 > 🔑 65 Private Repositories  
  > 
@@ -49,27 +49,31 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   34 mins             █████████████░░░░░░░░░░░░   51.74% 
+Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.7% 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
+R                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.27%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 7 mins         █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   38 repos            ██████████░░░░░░░░░░░░░░░   41.3% 
-Jupyter Notebook         35 repos            █████████░░░░░░░░░░░░░░░░   38.04% 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26%
+Python                   39 repos            ██████████░░░░░░░░░░░░░░░   41.94% 
+Jupyter Notebook         35 repos            █████████░░░░░░░░░░░░░░░░   37.63% 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 
 
 
- Last Updated on 31/07/2026
+ Last Updated on 01/08/2026
 <!--END_SECTION:waka-->
 
 
