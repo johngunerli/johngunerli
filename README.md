@@ -18,26 +18,26 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485755%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485603%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 68 Contributions in the Year 2026
+> 🏆 70 Contributions in the Year 2026
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 96 Public Repositories 
+> 📜 97 Public Repositories 
  > 
 > 🔑 65 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
+🌞 Morning    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
 🌆 Daytime    57 commits     ████████████░░░░░░░░░░░░░   50.44% 
-🌃 Evening    44 commits     █████████░░░░░░░░░░░░░░░░   38.94% 
+🌃 Evening    45 commits     ██████████░░░░░░░░░░░░░░░   39.82% 
 🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
 
 ```
@@ -59,17 +59,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ██████████░░░░░░░░░░░░░░░   41.94% 
-Jupyter Notebook         35 repos            █████████░░░░░░░░░░░░░░░░   37.63% 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+Python                   39 repos            ██████████░░░░░░░░░░░░░░░   42.39% 
+Jupyter Notebook         34 repos            █████████░░░░░░░░░░░░░░░░   36.96% 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26%
 
 ```
 
 
 
- Last Updated on 18/08/2026
+ Last Updated on 22/08/2026
 <!--END_SECTION:waka-->
 
 
