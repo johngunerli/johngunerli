@@ -49,10 +49,14 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               28 mins             █████████░░░░░░░░░░░░░░░░   38.05% 
+HTML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15% 
+Bash                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   22.67% 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 15 mins        █████████████████████████   100.0%
 
 ```
 
@@ -69,7 +73,7 @@ C++                      3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026
+ Last Updated on 10/09/2026
 <!--END_SECTION:waka-->
 
 
