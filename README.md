@@ -16,7 +16,7 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=jupyter%20notebook,tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-494360%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ C++                      3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026
+ Last Updated on 23/09/2026
 <!--END_SECTION:waka-->
 
 
