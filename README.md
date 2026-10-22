@@ -16,7 +16,7 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johngunerli&layout=compact&hide=jupyter%20notebook,tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-494360%20lines%20of%20code-blue)
 
@@ -49,13 +49,14 @@ I'm pretty active here, so please feel free to DM or shoot me an email at hakanc
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        █████████████████████░░░░   86.22% 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.32% 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39% 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+Python                   1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   34.29% 
+C++                      56 mins             █████░░░░░░░░░░░░░░░░░░░░   22.83% 
+Markdown                 43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
+Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
+CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.81%
 
 💻 Operating System: 
-Mac                      1 hr 22 mins        █████████████████████████   100.0%
+Mac                      4 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
@@ -72,7 +73,7 @@ C++                      3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026
+ Last Updated on 22/10/2026
 <!--END_SECTION:waka-->
 
 
